@@ -4,7 +4,7 @@ This repository contains a rainbow table generator for md5 hash. The generator c
 # Usage
 To use the rainbow table generator, you need to call the computeTable function. Here is an example of how to use it:
 
-computeTable(passwordPolicy, minPasswordLength, maxPasswordLength)
+`computeTable(passwordPolicy, minPasswordLength, maxPasswordLength)`
 
 **Parameters:**
 The computeTable function accepts the following parameters:
